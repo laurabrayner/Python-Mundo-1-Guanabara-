@@ -25,7 +25,7 @@ Estou utilizando este espaço para registrar minha evolução na programação e
 * Cálculo de área de parede
 * Desconto em produto
 * Aumento salarial
-* 
+  
 ---
 
 ### 3. Uso de Módulos

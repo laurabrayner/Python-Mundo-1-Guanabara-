@@ -35,7 +35,7 @@ Estou utilizando este espaço para registrar minha evolução na programação e
 * Cálculo da hipotenusa
 * Seno, cosseno e tangente
 * Ordem aleatória de alunos
-* 
+  
 ---
 
 ### 4. Manipulação de Texto

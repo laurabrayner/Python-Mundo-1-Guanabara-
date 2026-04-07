@@ -6,7 +6,7 @@ Este repositório contém exercícios desenvolvidos durante meu processo de apre
 O objetivo deste projeto é praticar lógica de programação, operações matemáticas, manipulação de texto, uso de módulos e estruturas condicionais.
 Estou utilizando este espaço para registrar minha evolução na programação e construir um portfólio técnico.
 ---
-## 📚 Conteúdo
+##  Conteúdo
 
 ### 1. Print e Input
 
@@ -68,7 +68,7 @@ Estou utilizando este espaço para registrar minha evolução na programação e
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver habilidades em:
 
@@ -81,18 +81,18 @@ Desenvolver habilidades em:
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * Python
 
 ---
 
-## 📌 Status do projeto
+##  Status do projeto
 
 Em desenvolvimento — novos exercícios serão adicionados conforme o avanço no curso.
 
 ---
 
-## 👨‍💻 Autora
+##  Autora
 
 Estudante em processo de aprendizado em programação.
